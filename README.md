@@ -1,2 +1,2 @@
 # python
-python练习
+It's my practice
