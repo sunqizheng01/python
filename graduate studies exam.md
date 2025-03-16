@@ -4,32 +4,266 @@
 
 ### 专业课问题与答案
 +  **PCR与细胞内复制的异同点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+</details>
+ 
 + **为什么选择对数生长期的菌做研究**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **超净工作台的工作原理与注意事项**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **红酒和白酒的酿造工艺的区别**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **大肠杆菌作为感受态细胞的好处**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **病毒和微生物最大区别是什么**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **RNA与DNA那个更容易突变，为什么**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **酿酒酵母菌与乳酸菌共同培养的好处**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **乳酸菌与大肠杆菌为什么不能一起发酵培养**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **质粒应用于基因工程的优点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **大肠杆菌的三个表达系统**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **青霉素抑制微生物繁殖的机理，针对对象，一般抑制哪一类细菌**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **酶作为生物催化剂有哪些特点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **为什么选择对数生长期的菌做研究，有什么特点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **前体RNA变为成熟mRNA经历的过程**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **让外源基因表达的载体有什么？常用的是哪些？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **已知一段基因序列，如何研究该基因的野生型和缺陷型在模式植物形状上的体现不同之处？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **核酸检测的方法有几种？优缺点分别是什么？目前临床用哪种？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **大肠杆菌的体外表达机制中的载体类型**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **如果希望从环境中分离得到厌氧固氮菌，你该如何设计实验**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **抗生素如何发挥它的抗菌作用**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **三羧酸循环的意义**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **DNA损伤的原因以及5种修复方式**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **微生物/细菌 生长曲线有哪些阶段和特点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **真核生物和原核生物的细胞结构的区别，至少三个区别**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + **在crispr/cas9中，对断裂的DNA修复有哪些，主要应用于？**
-+ **大肠杆菌和枯草芽孢杆菌，至少说三种方法** 
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **大肠杆菌和枯草芽孢杆菌如何区分，至少说三种方法** 
     <details>
   <summary>3点</summary>
     <ul>
@@ -39,7 +273,108 @@
     </ul> 
     </details> 
 
- ****
++ **碱裂解法破裂细菌获得质粒，怎么避免基因组DNA污染**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **非必需氨基酸和必需氨基酸的定义，氨基酸由多少密码子组成**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **细菌是怎么转录终止的？有哪几种机制？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **食后，身体会出现哪些变化？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **蛋白质变性是什么以及意义**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **蛋白质三级结构与结构域的特点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **16sRNA作为分子尺有什么优点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **同尾酶与裂解酶的异同点**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **病毒、拟病毒、类病毒和朊病毒结构和遗传物质有什么不同？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
++ **DNA重组连接酶的种类有哪些？作用底物是什么？反应最佳温度和最适PH？**
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
+
+****
 
 
 ### 生活方面
@@ -65,6 +400,14 @@
     </details> 
 
 + 读研目的
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
 
 + 我的特点
     <details>
@@ -75,8 +418,26 @@
     <li></li>
     </ul> 
     </details> 
+
 + 我的家庭
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
+
 + 我的爱好
+ <details>
+  <summary>3点</summary>
+    <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+    </ul> 
+    </details> 
 
 
 *** 
@@ -93,4 +454,6 @@
 我具备优秀的交际能力、沟通能力、团队合作能力和良好的写作水平，善于与人交流合作，能够快速融入团队并发挥积极作用。同时，我拥有良好的分析问题能力和抗压能力，面对复杂的研究课题和学术压力，能够冷静思考、拆解问题，把大问题转变为一个一个的小问题。我非常期待能够继续在贵校攻读硕士学位，进一步深造和提升自己。在研究生阶段，我将更加专注于生物信息学领域的研究，为解决实际的生物学问题贡献自己的力量。我相信，凭借我的努力和潜力，能够在学术道路上取得更大的成就。
 
 我的自我介绍结束，请老师批评指正。
+
+
 ## 英文自我介绍
